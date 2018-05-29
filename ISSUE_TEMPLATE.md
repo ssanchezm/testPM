@@ -1,4 +1,4 @@
-## [User story title]
+## User Story
 _Add the user story to be implemented:_
 
 - As a [user type]
