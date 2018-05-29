@@ -5,7 +5,7 @@ I want < some goal >
 So that < some reason >
 
 _Example:_
-	_As a user_
+	--_As a user_
 	_I want to have a registration form_
 	_So that I can create a new user on the platform for myself_
 
