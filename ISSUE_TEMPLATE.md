@@ -1,19 +1,17 @@
 ## [User story title]
 _Add the user story to be implemented:_
 
-As a <type of user>
+As a _type of user_
 
-I want <some goal>
+I want _some goal_
 
-So that <some reason>
+So that _some reason_
 
-_Example:_
+	Example:
 
-	_As a user_
-
-	_I want to have a registration form_
-
-	_So that I can create a new user on the platform for myself_
+		As an application user
+		I want to have a registration form
+		So that I can create a new user on the platform for myself
 
 ### Acceptance criteria - Definition of Done
 _List the requirements that ensure that the user story is completed and all scenarios are taken into account. Specify conditions under which the user story is fulfilled.
