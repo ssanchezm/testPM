@@ -49,6 +49,7 @@ _List the conditions required for this user story to work (if any)._
 - ...
 
 ### Definition of Done
+_A User Story will be considered Done only when all the items from the following list are completed_
 - [ ]  Unit tests passed
 _X% code coverage from unit tests (to be removed - future check)_
 - [ ]  Acceptance criteria met
