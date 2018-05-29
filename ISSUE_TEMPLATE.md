@@ -4,10 +4,10 @@ As a < type of user >
 I want < some goal >
 So that < some reason >
 
-_Example:
-As a user
-I want to have a registration form
-So that I can create a new user on the platform for myself_
+_Example:_
+	_As a user_
+	_I want to have a registration form_
+	_So that I can create a new user on the platform for myself_
 
 ### Acceptance criteria - Definition of Done
 _List the requirements that ensure that the user story is completed and all scenarios are taken into account. Specify conditions under which the user story is fulfilled.
