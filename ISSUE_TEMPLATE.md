@@ -1,5 +1,6 @@
 ## [User story title]
 _Add the user story to be implemented:_
+
 As a <type of user>
 
 I want <some goal>
@@ -7,6 +8,7 @@ I want <some goal>
 So that <some reason>
 
 _Example:_
+
 	_As a user_
 
 	_I want to have a registration form_
