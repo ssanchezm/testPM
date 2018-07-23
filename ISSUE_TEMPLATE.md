@@ -51,18 +51,11 @@ _List the conditions required for this user story to work (if any)._
 ### Definition of Done
 _A User Story will be considered Done only when all the items from the following list are complete:_
 - [ ]  Unit tests passed
-_X% code coverage from unit tests (to be removed - future check)_
 - [ ]  Acceptance criteria met
 - [ ]  Functional tests passed (Testlio test cycles successfully executed) 
-_Regression tests passed (to be removed - future check)_
 - [ ]  Non-Functional requirements met
 - [ ]  Code reviewed
-- [ ]  Code builds without warnings
-- [ ]  Build deployed into STAGE server
-- [ ]  Technical documentation updated
+- [x]  Build deployed into STAGE server
+- [x]  Technical documentation updated
 - [ ]  User documentation updated
 - [ ]  User Story accepted by Product Owner
-
-### Implementation breakdown
-_List the technical tasks to execute while implementing the User Story. First version to be created during the Sprint Planning._
-- [ ] ...
