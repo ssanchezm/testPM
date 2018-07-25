@@ -55,7 +55,7 @@ _A User Story will be considered Done only when all the items from the following
 - [ ]  Functional tests passed (Testlio test cycles successfully executed) 
 - [ ]  Non-Functional requirements met
 - [ ]  Code reviewed
-- [x]  Build deployed into STAGE server
-- [x]  Technical documentation updated
+- [ ]  Build deployed into STAGE server
+- [ ]  Technical documentation updated
 - [ ]  User documentation updated
 - [ ]  User Story accepted by Product Owner
